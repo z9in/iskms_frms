@@ -1,0 +1,39 @@
+
+/* 점검표 */
+.table {
+  margin: auto;
+  margin-top: 15px;
+  width: 95%;
+  border-collapse: collapse;
+  }
+.tr, .td, .th {
+  width:calc(100% / 7);
+}
+.input {
+  width: 100%;
+  height: 100%;
+  padding-left: 5px;
+  border: none;
+  font-size: 105%;
+  text-align: center;
+}
+.displayNone {
+  width: 100%;
+  height: 100%;
+  padding-left: 5px;
+  border: none;
+  font-size: 105%;
+  text-align: center;
+  display: none;
+}
+/* .titles {
+  display: flex;
+  
+} */
+.submit {
+  margin-left: 1%;
+  width: 80px;
+  height: 30px;
+  text-align: center;
+  
+}
